@@ -1,12 +1,15 @@
 h1{
     color: chartreuse;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+    
+}
+.fs
+{
+	font-size:15px;
 }
 
-.fs{
-    font-size: 15px;
+.fs-size
+{
+	font-size:15px;
 }
-.fs-size{
-    font-size: 15px;
-}
+
